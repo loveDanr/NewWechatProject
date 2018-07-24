@@ -144,7 +144,7 @@ public partial class Index : System.Web.UI.Page
 
     #region 用code换取获取用户信息（包括非关注用户的）
     /// <summary>
-    ///用code换取获取用户信息（包括非关注用户的）
+    ///用code 换取获取用户信息（包括非关注用户的）
     /// </summary>
     /// <param name="Appid"></param>
     /// <param name="Appsecret"></param>
